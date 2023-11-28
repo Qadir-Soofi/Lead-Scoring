@@ -2,7 +2,7 @@
 
 A group case study on classifying and scoring leads to help the Sales team improve their efficiency.
 
-Worked over a week spanning from 14th to 21st November 2023, using the data given to us (No data collection done directly).
+Worked over two weeks spanning from 14th to 28th November 2023, using the data given to us (No data collection done directly).
 
 Project deliverables include: 
   - Well structured and commented iPython Notebook
